@@ -23,7 +23,7 @@
         <configuration> 
             <adminurl>t3://localhost:7001</adminurl>
             <user>weblogic</user> 
-            <password>your-password</password> 
+            <password>Weblogic1234</password> 
             <upload>true</upload> 
             <action>deploy</action> 
             <remote>false</remote> 
