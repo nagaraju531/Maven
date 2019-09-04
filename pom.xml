@@ -7,8 +7,8 @@
     <artifactId>Testing</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-
-         <profiles>
+         
+     <profiles>
 <profile>
 <id>sonar</id>
 <activation>
@@ -22,8 +22,6 @@ http://192.168.0.104:900
 </properties>
 </profile>
 </profiles>
-         
-         
     <name>minimal-pom</name>
     <url>http://maven.apache.org</url>
 
@@ -52,11 +50,5 @@ http://192.168.0.104:900
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
-             
-<dependency>
-<groupId>org.sonarsource.scanner.maven</groupId>
-<artifactId>sonar-maven-plugin</artifactId>
- <version>6.6</version>
-</dependency>
     </dependencies>
 </project>
