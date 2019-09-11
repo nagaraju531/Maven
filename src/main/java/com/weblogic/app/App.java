@@ -7,6 +7,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.prinltn("The Title is");
+        System.out.println("The Title is");
     }
 }
