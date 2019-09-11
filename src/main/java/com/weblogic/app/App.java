@@ -9,9 +9,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        Logger logger 
-            = Logger.getLogger( 
-                GFG.class.getName());
-        logger.log(Level.INFO,"The Title is");
+        logger.log("The Title is");
     }
 }
