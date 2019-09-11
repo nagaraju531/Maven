@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("The title is ");
+        logger.log("The Title is");
     }
 }
