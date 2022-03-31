@@ -5,7 +5,7 @@
 
     <groupId>GUI.com</groupId>
     <artifactId>GUI-Application</artifactId>
-    <version>1.02</version>
+    <version>001v</version>
     <packaging>war</packaging>
          
      <profiles>
