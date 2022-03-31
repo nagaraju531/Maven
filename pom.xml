@@ -5,7 +5,7 @@
 
     <groupId>gd.wa</groupId>
     <artifactId>GUI-Application</artifactId>
-    <version>V1.1</version>
+    <version>1.2</version>
     <packaging>war</packaging>
          
      <profiles>
