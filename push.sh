@@ -1,1 +1,1 @@
-This is yes
+echo "Hi This is sample"
